@@ -1,6 +1,8 @@
 library(readr)
 library(dplyr)
 
+#This is a test from Joseph Crouson
+
 # Load data into dataframe
 aclu <- read_csv('aclu_separations.csv')
 
